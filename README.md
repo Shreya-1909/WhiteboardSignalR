@@ -1,1 +1,2 @@
-WhiteIR
+White
+WhiteboardSignalIR
